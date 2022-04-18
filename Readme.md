@@ -4,6 +4,7 @@ Rick and Morty api
 
 ## Description
 
-Para consumit la api. Se debe apuntar al siguiente endpoint:
-localhost:8080/rick-and-morty/1
+
+Consumir la api: 
+GET localhost:8080/rick-and-morty/1
 
